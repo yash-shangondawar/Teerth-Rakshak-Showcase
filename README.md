@@ -297,6 +297,7 @@ Crowd Density Analysis
                          │
                          ▼
                   Critical Crowd Alert
+```
 
 ---
 
